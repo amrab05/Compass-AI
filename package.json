@@ -1,0 +1,9 @@
+{
+  "name": "compass-ai",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/generative-ai": "^0.14.1",
+    "postmark": "^4.0.2"
+  }
+}
